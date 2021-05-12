@@ -15,3 +15,5 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+![](https://github.com/rtjoshuas/rtjoshuas.github.io/blob/main/Doge.jpg)

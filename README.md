@@ -1,9 +1,9 @@
 Syntax highlighted code block
 
 # KOSMO
-## Day 1
-## Day 2
-## Day 3
+## _Day 1_
+## _Day 2_
+## _Day 3_
 
 
 - Bulleted

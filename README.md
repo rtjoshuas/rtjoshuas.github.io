@@ -16,4 +16,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![](https://github.com/rtjoshuas/rtjoshuas.github.io/blob/main/Doge.jpg)
+<img src="https://github.com/rtjoshuas/rtjoshuas.github.io/blob/main/Doge.jpg" width="250">
